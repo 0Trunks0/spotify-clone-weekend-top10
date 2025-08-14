@@ -2,6 +2,8 @@
 
 A simple Spotify clone made with HTML, CSS, and JavaScript, featuring my favorite Weekend songs.
 🌐 Live Demo
+
+
 blinding-beats.netlify.app
 ✨ Features
 - Play/Pause controls
