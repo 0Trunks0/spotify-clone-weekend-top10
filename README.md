@@ -5,6 +5,8 @@ A simple Spotify clone made with HTML, CSS, and JavaScript, featuring my favorit
 
 
 blinding-beats.netlify.app
+
+
 ✨ Features
 - Play/Pause controls
 - Progress bar to track and seek songs
