@@ -4,7 +4,7 @@ A simple Spotify clone made with HTML, CSS, and JavaScript, featuring my favorit
 🌐 Live Demo
 
 
-blinding-beats.netlify.app
+[blinding-beats.netlify.app](https://blinding-beats.netlify.app/)
 
 
 ✨ Features
